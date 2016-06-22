@@ -6,7 +6,7 @@ build:
 
 publish:
   docker:
-    repo: marknguy/cicd_demoapp
+    repo: marknguyen/cicd_demoapp
     tag: latest
     username: $$DOCKER_USERNAME
     password: $$DOCKER_PASSWORD
